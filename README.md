@@ -18,12 +18,12 @@ IMPORTANT: to connect to OpenAI api, you need to put your openai key to `server/
 To run the server locally:
 - Open terminal from the RAYMOND-LITE-REACT-JS directory and type:
 ``
-cd server
+cd server \
 npm run server
 ``
 - Open another terminal from the RAYMOND-LITE-REACT-JS directory and type:
 ``
-cd client
+cd client \
 npm run dev
 ``
 - In browser, copy and past the url from the client terminal. Enjoy!
